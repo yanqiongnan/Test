@@ -19,15 +19,7 @@
     // Do any additional setup after loading the view, typically from a nib.kjkhkjkjkjkghjgchdmhj
     
     
-    // khsadkfjsodgvjdhvbcvds4545544adsadsadfsaf5641
-    fsasaf
-    as
-    falsesf
-    saf
-    sa
-    falsesaf
-    safas
-    // aaaaaaa
+    ji
 }
 
 - (void)didReceiveMemoryWarning {
